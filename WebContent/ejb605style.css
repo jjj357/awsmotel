@@ -1,0 +1,186 @@
+/*This is the css file for EJB Course
+*/
+
+/* ********index page******* */
+.index {
+  color: #FF0000;
+  background-color: #CCFFCC ;
+}
+
+
+/* ==========booking pages======= */
+
+.addbookinghead {
+  color: #FFFFFF;
+  background-color: #660000 ;
+}
+
+.addbooking {
+  color: #660033;
+  background-color: #CCCC33 ;
+}
+
+.displaybookingforedithead {
+  color: #FFFFFF;
+  background-color: #660000 ;
+}
+
+.displaybookingforedit {
+  color: #660033;
+  background-color: #CCCC33 ;
+}
+
+.validatebookinghead {
+  color: #FFFFFF;
+  background-color: #660000 ;
+}
+
+.validatebooking {
+  color: #660033;
+  background-color: #CCCC33 ;
+}
+
+.displaybookingshead {
+  color: #FFFFFF;
+  background-color: #660000 ;
+}
+
+.displaybookings {
+  color: #660033;
+  background-color: #CCCC33 ;
+}
+
+.displayonebookinghead {
+  color: #FFFFFF;
+  background-color: #660000 ;
+}
+
+.displayonebooking {
+  color: #660033;
+  background-color: #CCCC33 ;
+}
+
+.bookroomsearchresulthead {
+  color: #FFFFFF;
+  background-color: #660000 ;
+}
+
+.bookroomsearchresult {
+  color: #660033;
+  background-color: #CCCC33 ;
+}
+
+
+/* =========client pages======== */
+
+.addclienthead {
+  color: #FFFFFF;
+  background-color: #330066 ;
+}
+
+.addclient {
+  color: #000000;
+  background-color: #33CCFF ;
+}
+
+.displayclientforedithead {
+  color: #FFFFFF;
+  background-color: #330066 ;
+}
+
+.displayclientforedit {
+  color: #000000;
+  background-color: #33CCFF ;
+}
+
+.validateclienthead {
+  color: #FFFFFF;
+  background-color: #330066 ;
+}
+
+.validateclient {
+  color: #000000;
+  background-color: #33CCFF ;
+}
+
+.displayclientshead {
+  color: #FFFFFF;
+  background-color: #330066 ;
+}
+
+.displayclients {
+  color: #000000;
+  background-color: #33CCFF ;
+}
+
+.displayoneclienthead {
+  color: #FFFFFF;
+  background-color: #330066 ;
+}
+
+.displayoneclient {
+  color: #000000;
+  background-color: #33CCFF ;
+}
+
+
+/* =========room pages========== */
+
+.addroomhead {
+  color: #FFFFFF;
+  background-color: #006600 ;
+}
+
+.addroom {
+  color: #009900;
+  background-color: #66FFFF ;
+}
+
+.displayroomforedithead {
+  color: #FFFFFF;
+  background-color: #006600 ;
+}
+
+.displayroomforedit {
+  color: #009900;
+  background-color: #66FFFF ;
+}
+
+.validateroomhead {
+  color: #FFFFFF;
+  background-color: #006600 ;
+}
+
+.validateroom {
+  color: #009900;
+  background-color: #66FFFF ;
+}
+
+.displayroomshead {
+  color: #FFFFFF;
+  background-color: #006600 ;
+}
+
+.displayrooms {
+  color: #009900;
+  background-color: #66FFFF ;
+}
+
+.displayoneroomhead {
+  color: #FFFFFF;
+  background-color: #006600 ;
+}
+
+.displayoneroom {
+  color: #009900;
+  background-color: #66FFFF ;
+}
+
+/* =====other==== */
+.xsuccessfullyjsp {
+  background-color: #66FF99 ;
+}
+
+.fail {
+  background-color: #FFCCFF ;
+}
