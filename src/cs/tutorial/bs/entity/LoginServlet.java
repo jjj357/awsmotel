@@ -77,9 +77,9 @@ protected boolean processInput(String user, String pass,HttpServletRequest reque
 
     Connection conn = null;
     Connection conn1 = null;
-    String userName = "mingtl2010";   //"root";    //
-    String password = "19760108";   //"0108";   //
-    String url = "jdbc:mysql://aa17y9fu77blehb.ceexy9bsxwn2.us-west-2.rds.amazonaws.com:3306/ebdb";  //"jdbc:mysql://localhost:3306/test";  //
+    String userName = "xxxxx";      //
+    String password = "xxxxx";     //
+    String url = "jdbc:mysql://xxxxxx.us-west-2.rds.amazonaws.com:3306/ebdb";  //"jdbc:mysql://localhost:3306/test";  //
     ResultSet rs = null;
     try {
         Class.forName("com.mysql.jdbc.Driver").newInstance();
@@ -135,9 +135,9 @@ public static String encodePasswordUsingSHA1(String pass) throws SQLException, C
     
 	String sha1password = "";
     Connection conn1 = null;
-    String userName = "mingtl2010";   //"root";  //
-    String password = "19760108";   //"0108";  //
-    String url = "jdbc:mysql://aa17y9fu77blehb.ceexy9bsxwn2.us-west-2.rds.amazonaws.com:3306/ebdb";   // "jdbc:mysql://localhost:3306/test";   
+    String userName = "xxxxx";   
+    String password = "xxxxx";   
+    String url = "jdbc:mysql://xxxxx.us-west-2.rds.amazonaws.com:3306/ebdb";    
     ResultSet rs = null;
     try {
         Class.forName("com.mysql.jdbc.Driver").newInstance();
